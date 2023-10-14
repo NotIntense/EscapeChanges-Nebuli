@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\mbro8\\source\\Repos\\EscapeChanges-Nebuli\\EscapeChanges-Nebuli.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\mbro8\\source\\Repos\\EscapeChanges-Nebuli\\EscapeChanges-Nebuli.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mbro8\\source\\Repos\\EscapeChanges-Nebuli\\EscapeChanges-Nebuli.csproj",
+        "projectName": "EscapeChanges-Nebuli",
+        "projectPath": "C:\\Users\\mbro8\\source\\Repos\\EscapeChanges-Nebuli\\EscapeChanges-Nebuli.csproj",
+        "packagesPath": "C:\\Users\\mbro8\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mbro8\\source\\Repos\\EscapeChanges-Nebuli\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mbro8\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net4.8"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "targetAlias": "net4.8",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "targetAlias": "net4.8",
+          "dependencies": {
+            "Nebuli": {
+              "target": "Package",
+              "version": "[1.2.6, )"
+            },
+            "System.Collections": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

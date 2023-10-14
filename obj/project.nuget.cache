@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "KVV/jG4PvA0F/sKbwdToblvWfOPqPsndhv3VA/04v2x4xj1ckU55P06uL6hTs6uu3qXTrLVB6XOQ7sHtuUkP8g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mbro8\\source\\Repos\\EscapeChanges-Nebuli\\EscapeChanges-Nebuli.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mbro8\\.nuget\\packages\\nebuli\\1.2.6\\nebuli.1.2.6.nupkg.sha512",
+    "C:\\Users\\mbro8\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}
